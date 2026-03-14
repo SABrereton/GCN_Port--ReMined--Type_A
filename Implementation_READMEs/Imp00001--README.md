@@ -13,7 +13,7 @@ GCN Port: ReMined - Type A - Imp00001.
 
 ### About GCN Port: ReMined - Type A - Imp00001
 
-The purpose of this implementation is to predominantly use C programming
+The purpose of this implementation is to predominantly use the C programming
 language along with the Simple DirectMedia Layer (SDL) 1.2.X API to develop
 versions of GCN Port: ReMined - Type A  that will run on hardware and
 software that feature keyboard and mouse as their primary user interface.
