@@ -11,7 +11,7 @@ GCN Port: ReMined - Type A.
 ### About GCN Port: ReMined - Type A
 
 GCN Port: ReMined - Type A is intended to be ports of the Microsoft
-Minesweeper clone "ReMned with minimal changes.
+Minesweeper clone "ReMned" with minimal changes.
 
 GCN Port: Remined - Type A is developed by Stuart Antony Brereton
 and the Great Collective Nobody.
