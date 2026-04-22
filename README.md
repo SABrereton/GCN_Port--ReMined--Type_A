@@ -40,7 +40,7 @@ The implementations that have currently been released can be found via the follo
 
 ### Legal / Licencing Information
 
-* ReMined *
+* ReMined
 
 Version 0.61 of ReMined is licenced under the terms of the
 BSD-3-Clause Licence.
