@@ -11,7 +11,7 @@ The purpose of this document is to provide some information about
 GCN Port: ReMined - Type A - Imp00002.
 
 
-### About GCN Port: ReMined - Type A - Imp00001
+### About GCN Port: ReMined - Type A - Imp00002
 
 The purpose of this implementation is to predominantly use the C programming
 language, devkitPPC and the Simple DirectMedia Layer (SDL) 1.2.X API to develop
