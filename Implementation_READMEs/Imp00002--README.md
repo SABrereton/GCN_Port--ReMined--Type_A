@@ -21,6 +21,8 @@ software that is compatible with Nintendo Wii systems.
 - Downloads & Changelog
 
   [Changelog]( ../Changelogs/GCN_Port_[Remined]-tA-Imp00002-Changelog.txt)\
+  [Version 1.1 - The Source Components]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00002-v1p1-Src/GCN_Port_ReMined-tA-Imp00002-v1p1--Src.zip )\
+  [Version 1.1 - The Compiled Program]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00002-v1p1-Prg/GCN_Port_ReMined-tA-Imp00002-v1p1--Prg.zip )\
   [Version 1 - The Source Components]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00002-v1-Src/GCN_Port_ReMined-tA-Imp00002-v1--Src.zip )\
   [Version 1 - The Compiled Program]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00002-v1-Prg/GCN_Port_ReMined-tA-Imp00002-v1--Prg.zip )
 
