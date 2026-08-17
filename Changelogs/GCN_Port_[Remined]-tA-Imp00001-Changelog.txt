@@ -1,11 +1,21 @@
 
                       GCN Port: ReMined - Type A
-                      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-                        Implemention: Imp00001           
-                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-                  
+                      --------------------------
+                       Implementation: Imp00001
+                       ------------------------
+
                               Changelog
-                              ¯¯¯¯¯¯¯¯¯
+                              ---------
+
+
+=== Version 1.1 - [15-08-2026] ===
+
+* Corrected the misspelling of "implementation" in the title on the
+  "About this Implementation" screen.
+
+* Removed the extra space between the "ReMined" and "- Type"
+  portions of the program title which is displayed on every screen of
+  the front matter.
 
 
 === Version 1 - [13-03-2026] ===
@@ -40,7 +50,7 @@ Notes, observations and/or changes follow:
 
 
 ----------------------------------------------------------------------
-changelog ABOVE: GCN Port: ReMined - Type A - Implemention: Imp00001
+changelog ABOVE: GCN Port: ReMined - Type A - Implementation: Imp00001
 
 
 ++++ Forked from Version 0.61
