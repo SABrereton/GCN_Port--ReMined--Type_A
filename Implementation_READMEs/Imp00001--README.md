@@ -24,7 +24,7 @@ software that feature keyboard and mouse as their primary user interface.
   [Version 1.1 - The Source Components]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00001-v1p1-Src/GCN_Port_.ReMined.-tA-Imp00001-v1p1--Src.zip )\
   [Version 1.1 - A Compiled Program for 32bit x86 compatible Microsoft Windows]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00001-v1p1-prg-MSWin_x86_32/GCN_Port_.ReMined.-tA-Imp00001-v1p1--Prg--MS_Win_x86-32.zip ) -- .dll library files required are available [here.]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86)\
   [Version 1 - The Source Components]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00001-v1-Src/GCN_Port_.Remined.-tA-Imp00001-v1--Src.zip )\
-  [Version 1 - A Compiled Program for 32bit x86 compatible Microsoft Windows]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00001-v1-Prg-MSWin_x86_32/GCN_Port_.Remined.-tA-Imp00001-v1--Prg--MS_Win_x86-32.zip )
+  [Version 1 - A Compiled Program for 32bit x86 compatible Microsoft Windows]( https://github.com/SABrereton/GCN_Port--ReMined--Type_A/releases/download/Imp00001-v1-Prg-MSWin_x86_32/GCN_Port_.Remined.-tA-Imp00001-v1--Prg--MS_Win_x86-32.zip ) -- .dll library files required are available [here.]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86)
 
 - Images
 
